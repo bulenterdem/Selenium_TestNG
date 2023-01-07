@@ -7,7 +7,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.Reusablemethods;
 
-public class C01_PozitifLoginTest {
+public class C04_PozitifLoginTest {
 
     @Test
     public void pozitifLoginTest(){

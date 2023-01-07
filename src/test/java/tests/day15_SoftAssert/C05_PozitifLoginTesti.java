@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import pages.QualitydemyPage;
 import utilities.Driver;
 
-public class C03_PozitifLoginTesti {
+public class C05_PozitifLoginTesti {
 
     @Test
     public void test01(){

@@ -20,6 +20,8 @@ public class C02_NegatifLoginTesti {
     @Test
     public void yanlisEmailtesti(){
 
+        Reusablemethods.bekle(5);
+
         Driver.getDriver().get(ConfigReader.getProperty("qdUrl"));
 
         qualitydemyPage.ilkLoginLinki.click();
