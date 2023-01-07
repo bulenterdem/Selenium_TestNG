@@ -15,7 +15,7 @@ import java.util.List;
 
 public class C02_SoftAssert {
 
-    @Test
+    @Test(groups = {"minireg1","minireg2"})
     public void test01(){
 
         // 1. “http://zero.webappsecurity.com/” Adresine gidin
