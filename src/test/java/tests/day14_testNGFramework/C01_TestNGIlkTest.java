@@ -24,7 +24,7 @@ public class C01_TestNGIlkTest {
     @Test (priority = 9)
     public void ikiniciTest(){
 
-        System.out.println("Ikinci test calisti");
+        System.out.println("2.Ikinci test calisti");
     }
 
 
